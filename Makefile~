@@ -1,0 +1,2 @@
+output:
+	gcc -g -Wall -Werror -Wextra -pedantic _strtok.c getline.c  0-strcat.c env.c -o prueba
